@@ -10,7 +10,7 @@ npm install --save TakutoYoshikai/shorten-host
 **example**
 ```javascript
 const runServer = require("shorten-host");
-runServer("https://takutoyoshikai.github.io");
+runServer("https://takutoyoshikai.github.io"); # run server on 80 port.
 ```
 
 ### License
